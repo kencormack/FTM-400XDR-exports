@@ -29,3 +29,5 @@ BAND-B:
 - North American Railroad Frequencies
 
 As I am located in the Akron area of Northeast Ohio, USA, several of the frequencies (such as the airports) are relevant only to this area.  The "comments" columns in the files should adequately describe everything here, should you want to help yourself to any pieces/parts of these files.
+
+The satellite info in "BAND A" very likely has errors, as I am just researching them.  Do not assume they are correct, without eye-balling them, first.
