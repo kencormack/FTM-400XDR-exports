@@ -29,6 +29,8 @@ BAND-B:
 - North American Railroad Frequencies
 - 220MHz Band (1.25 Meter) Simplex and Northeast Ohio Repeater frequencies
 
+My BAND-A and BAND-B lists are identical, from entries 1 through 99.  From 100 on, each "band" goes off in different directions.  BAND-A contains Amateur Radio frequencies that I can legally transmit on, with an unmodified FTM-400XDR radio.  BAND-B includes frequencies of interest that an unmodified FTM-400XDR can receive, but can not transmit on.
+
 As I am located in the Akron area of Northeast Ohio, USA, several of the frequencies (such as the airports and repeaters in the surrounding counties) are relevant only to this area.  The "comments" columns in the files should adequately describe everything here, should you want to help yourself to any pieces/parts of these files.
 
 The satellite info in "BAND A" very likely has errors, as I am just researching them.  Do not assume they are correct, without eye-balling them, first.
