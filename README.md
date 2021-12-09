@@ -29,8 +29,10 @@ BAND-B:
 - North American Railroad Frequencies
 - 220MHz Band (1.25 Meter) Simplex and Northeast Ohio Repeater frequencies
 
-My BAND-A and BAND-B lists are identical, from entries 1 through 99.  From 100 on, each "band" goes off in different directions.  BAND-A contains Amateur Radio frequencies that I can legally transmit on, with an unmodified FTM-400XDR radio.  BAND-B includes frequencies of interest that an unmodified FTM-400XDR can receive, but can not transmit on.
+Entries 1 through 100 are identical in the BAND-A and BAND-B lists.  This was done partly to speed the initial setup, but mainly to ensure that channel numbers were consistent between the "bands", for those simplex frequencies I could transmit on.  (Yes, I know that only BAND-B can do APRS, and that only BAND-A can do digital.)  From entry 101 on, each "band" goes off in different directions.
 
-As I am located in the Akron area of Northeast Ohio, USA, several of the frequencies (such as the airports and repeaters in the surrounding counties) are relevant only to this area.  The "comments" columns in the files should adequately describe everything here, should you want to help yourself to any pieces/parts of these files.
+BAND-A contains Amateur Radio frequencies that I can legally transmit on, with an unmodified FTM-400XDR radio (eg: repeaters and FM satellites).  BAND-B includes frequencies (and modes) of interest that an unmodified FTM-400XDR can receive, but can not transmit on.  As a retired Coast Guard Avionicsman (HH-3F helicopters), I have an interest in both VHF Marine, and Aviation traffic.  I am also have a fascination with trains, hence the RR frequencies.  And finally, the 220MHz (1.25 Meter) frequencies are here on BAND-B just for listening, as the radio cannot transmit on 1.25 Meters.
 
-The satellite info in "BAND A" very likely has errors, as I am just researching them.  Do not assume they are correct, without eye-balling them, first.
+As I am located in the Akron area of Northeast Ohio, USA, many of the frequencies (such as the airports and repeaters in the surrounding counties) are relevant only to this area.  The "comments" columns in the files should adequately describe everything here, should you want to help yourself to any pieces/parts of these files.
+
+The satellite info in BAND-A very likely has errors, as I am just researching them.  Do not assume they are correct, without eye-balling them, first.
