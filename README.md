@@ -11,7 +11,7 @@ BAND-A:
 - VHF Repeaters in the Summit, Portage, Stark, Cuyahoga, and Tuscarawas counties of Ohio
 - UHF Repeaters in the Summit, Portage, Stark, Cuyahoga, and Tuscarawas counties of Ohio
 - VHF & UHF Repeaters in areas of NH, FL, MA, and MI, where I often visit.
-- FM Satellites: AO27, IO86, ISSTV, ISS (repeater), ISS (talk to the astronauts), LILAC2, and SO50
+- FM Satellites: AO27, AO91, AO92, IO86, ISSTV, ISS (repeater), ISS (talk to the astronauts), LILAC2, PO101, and SO50
 
 BAND-B:
 - NOAA WX Frequencies
