@@ -6,7 +6,7 @@ BAND-A:
 - APRS
 - VHF & UHF Digital Simplex Frequencies proposed by Yaesu
 - VHF Simplex Frequencies (Consult your area's Frequency Coordinator)
-- UHF Simplex Frequency
+- UHF Simplex Frequencies
 - My local club's typically used event simplex frequency
 - VHF Repeaters in the Summit, Portage, Stark, Cuyahoga, and Tuscarawas counties of Ohio
 - UHF Repeaters in the Summit, Portage, Stark, Cuyahoga, and Tuscarawas counties of Ohio
@@ -18,7 +18,7 @@ BAND-B:
 - APRS
 - VHF & UHF Digital Simplex Frequencies proposed by Yaesu
 - VHF Simplex Frequencies (Consult your area's Frequency Coordinator)
-- UHF Simplex Frequency
+- UHF Simplex Frequencies
 - My local club's typically used event simplex frequency
 - FRS Frequencies
 - GMRS Frequencies
