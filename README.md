@@ -7,11 +7,11 @@ BAND-A:
 - VHF & UHF Digital Simplex Frequencies proposed by Yaesu
 - VHF Simplex Frequencies (Consult your area's Frequency Coordinator)
 - UHF Simplex Frequencies
-- My local club's typically used event simplex frequency
+- My local club's normal event simplex frequency
 - VHF Repeaters in the Summit, Portage, Stark, Cuyahoga, and Tuscarawas counties of Ohio
 - UHF Repeaters in the Summit, Portage, Stark, Cuyahoga, and Tuscarawas counties of Ohio
 - VHF & UHF Repeaters in areas of NH, FL, MA, and MI, where I often visit.
-- FM Satellites: AO27, AO91, AO92, IO86, ISSTV, ISS (repeater), ISS (talk to the astronauts), LILAC2, PO101, and SO50
+- Several popular FM Satellites, and the International Space Station
 
 BAND-B:
 - NOAA WX Frequencies
@@ -19,7 +19,7 @@ BAND-B:
 - VHF & UHF Digital Simplex Frequencies proposed by Yaesu
 - VHF Simplex Frequencies (Consult your area's Frequency Coordinator)
 - UHF Simplex Frequencies
-- My local club's typically used event simplex frequency
+- My local club's normal event simplex frequency
 - FRS Frequencies
 - GMRS Frequencies
 - MURS Frequencies
