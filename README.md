@@ -24,7 +24,7 @@ Copies of my Yaesu FTM-400XDR amateur radio frequency tables, exported from the 
 - GMRS Frequencies
 - MURS Frequencies
 - Business Itinerent Frequencies
-- Aviation-related frequencies (including the Goodyear Blimp, Kent State University Airport, Akron Municipal Airport, Akron-Canton Regional Airport, Cleveland-Hopkins International Airport, and General Aviation AM & FM Frequencies)
+- Aviation-related frequencies (including the Goodyear Blimp, Kent State University Airport, Akron-Fulton Municipal Airport, Akron-Canton Regional Airport, Cleveland-Hopkins International Airport, and General Aviation AM & FM Frequencies)
 - VHF Marine Frequencies
 - North American Railroad Frequencies
 - 220MHz Band (1.25 Meter) Simplex and Northeast Ohio Repeater frequencies
