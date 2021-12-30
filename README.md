@@ -35,6 +35,9 @@ From entry 103 onward, each "band" goes off in different directions.  BAND-A con
 
 As I am located in the Akron area of Northeast Ohio, USA, many of the frequencies (such as the airports and repeaters in the surrounding counties) are relevant only to this area.  The "comments" columns in the files should adequately describe everything here, should you want to help yourself to any pieces/parts of these files.
 
-As Akron, OH is the home of Goodyear Tire and Rubber Co., one of their blimps is home-ported here, at Wingfoot Lake.  The other two are based out of Pompano Beach, FL and Carson, CA.  The blimp closest to an event (such as NFL football games) is sent to provide aerial television coverage.  The frequencies included here have been observed between the individual blimps and their TV and support ground crews, at these events.
+As Akron, OH is the home of Goodyear Tire and Rubber Co., one of their blimps is home-ported here, at Wingfoot Lake.  The other two are based out of Pompano Beach, FL and Carson, CA.  The blimp closest to an event (such as NFL football games) is sent to provide aerial television coverage.  The frequencies included here have been observed between the individual blimps and their TV and support ground crews, at these events.  Their coresponding callsigns are:
+- Wingfoot One (N1A), based in Pompano Beach Airpark in Pompano Beach, Florida
+- Wingfoot Two (N2A), based in Goodyear Blimp Base Airport in Carson, California
+- Wingfoot Three (N3A), based in Wingfoot Lake Airship Operations Balloonport in Suffield, Ohio
 
 The satellite info in BAND-A very likely has errors, as I am just researching them.  Do not assume they are correct, without eye-balling them, first.
