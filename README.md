@@ -3,7 +3,7 @@ Copies of my Yaesu FTM-400XDR amateur radio frequency tables, exported from the 
 
 **BAND-A:**
 - NOAA WX Frequencies, and Canada's Continuous Marine Broadcast Frequencies
-- APRS ######(Here For Reference Only - BAND A doesn't do APRS)######
+- APRS ###(Here For Reference Only - BAND A doesn't do APRS)###
 - VHF & UHF Digital Simplex Frequencies proposed by Yaesu
 - VHF Simplex Frequencies (Consult your area's Frequency Coordinator)
 - UHF Simplex Frequencies
@@ -16,7 +16,7 @@ Copies of my Yaesu FTM-400XDR amateur radio frequency tables, exported from the 
 **BAND-B:**
 - NOAA WX Frequencies, and Canada's Continuous Marine Broadcast Frequencies
 - APRS
-- VHF & UHF Digital Simplex Frequencies proposed by Yaesu ######(Here for Reference Only - BAND B doesn't do digital)######
+- VHF & UHF Digital Simplex Frequencies proposed by Yaesu ###(Here for Reference Only - BAND B doesn't do digital)###
 - VHF Simplex Frequencies (Consult your area's Frequency Coordinator)
 - UHF Simplex Frequencies
 - My local club's normal event simplex frequencies
