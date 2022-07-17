@@ -3,7 +3,7 @@ Copies of my Yaesu FTM-400XDR amateur radio frequency tables, exported from the 
 
 **BAND-A:**
 - NOAA WX Frequencies, and Canada's Continuous Marine Broadcast Frequencies
-- APRS ###(Here For Reference Only - BAND A doesn't do APRS)###
+- APRS (See NOTE Below)
 - VHF & UHF Digital Simplex Frequencies proposed by Yaesu
 - VHF Simplex Frequencies (Consult your area's Frequency Coordinator)
 - UHF Simplex Frequencies
@@ -16,7 +16,7 @@ Copies of my Yaesu FTM-400XDR amateur radio frequency tables, exported from the 
 **BAND-B:**
 - NOAA WX Frequencies, and Canada's Continuous Marine Broadcast Frequencies
 - APRS
-- VHF & UHF Digital Simplex Frequencies proposed by Yaesu ###(Here for Reference Only - BAND B doesn't do digital)###
+- VHF & UHF Digital Simplex Frequencies proposed by Yaesu (See NOTE Below)
 - VHF Simplex Frequencies (Consult your area's Frequency Coordinator)
 - UHF Simplex Frequencies
 - My local club's normal event simplex frequencies
@@ -29,7 +29,7 @@ Copies of my Yaesu FTM-400XDR amateur radio frequency tables, exported from the 
 - North American Railroad Frequencies
 - 220MHz Band (1.25 Meter) Simplex and Northeast Ohio Repeater frequencies
 
-**Entries 1 through 102 are identical in the BAND-A and BAND-B lists.  This was done partly to speed the initial setup, but mainly to ensure that channel numbers were consistent between the "bands", for those simplex frequencies I could transmit on.  (Yes, I know that only BAND-B can do APRS, and that only BAND-A can do digital.)**
+**NOTE: Entries 1 through 102 are identical in the BAND-A and BAND-B lists.  This was done partly to speed the initial setup, but mainly to ensure that channel numbers were consistent between the "bands", for those simplex frequencies I could transmit on.  (Yes, I know that only BAND-B can do APRS, and that only BAND-A can do digital.)**
 
 From entry 103 onward, each "band" goes off in different directions.  BAND-A contains Amateur Radio frequencies that I can legally transmit on, with an unmodified FTM-400XDR radio and suitable antenna (eg: repeaters and FM satellites).  BAND-B includes frequencies (and modes) of interest that an unmodified FTM-400XDR can receive, but can not transmit on.  As a retired Coast Guard Avionicsman (HH-3F helicopters), I have an interest in both Aviation traffic, and VHF Marine traffic on the Great Lakes (and coastal areas of New England and Florida when I travel).  I also have a fascination with trains, hence the Railroad frequencies.  Lastly, the 220MHz (1.25 Meter) frequencies are here on BAND-B just for listening, as the radio cannot transmit on 1.25 Meters.
 
