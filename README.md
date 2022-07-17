@@ -2,7 +2,7 @@
 Copies of my Yaesu FTM-400XDR amateur radio frequency tables, exported from the RTSystems software.
 
 **BAND-A:**
-- NOAA WX Frequencies
+- NOAA WX Frequencies, and Canada's Continuous Marine Broadcast Frequencies
 - APRS
 - VHF & UHF Digital Simplex Frequencies proposed by Yaesu
 - VHF Simplex Frequencies (Consult your area's Frequency Coordinator)
@@ -14,7 +14,7 @@ Copies of my Yaesu FTM-400XDR amateur radio frequency tables, exported from the 
 - Several popular FM Satellites, and the International Space Station
 
 **BAND-B:**
-- NOAA WX Frequencies
+- NOAA WX Frequencies, and Canada's Continuous Marine Broadcast Frequencies
 - APRS
 - VHF & UHF Digital Simplex Frequencies proposed by Yaesu
 - VHF Simplex Frequencies (Consult your area's Frequency Coordinator)
